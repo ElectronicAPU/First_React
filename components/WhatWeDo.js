@@ -51,6 +51,10 @@ const WhatWeDo = () => {
               labore et dolore magna aliqua
             </p>
           </div>
+</div>
+      </div>
+    </div>
+
   );
 };
 
